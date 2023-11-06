@@ -1,0 +1,6 @@
+﻿Nameliai
+Tuopu g.10
+864578210
+Vilnius,Antakalnis,Kalno g,6,butas,2010,60,3,3
+Taurage,Taurai,Tauru g,6,butas,2000,50,2,2
+Kaunas,Aleksotas,Aleksoto g,5,namas,1990,300,5,malkos

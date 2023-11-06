@@ -1,0 +1,27 @@
+﻿body {
+    background-color: #fffdf9;
+    font-size: 18px;
+}
+
+#Table1 {
+    margin: 0 auto;
+    border: 1px solid #ddd;
+    background-color: rgb(255, 248, 232);
+    border-radius: 10px;
+    padding: 15px;
+}
+
+#Button1, #Button2, #Button3, #Button4, #Button5 {
+    border-radius: 10px;
+    border-color: rgb(255, 238, 194);
+    background-color: white;
+    height: 30px;
+    width: 300px;
+}
+
+    #Button1:hover, #Button2:hover, #Button3:hover, #Button4:hover, #Button1:hover {
+        background-color: rgb(255, 238, 194);
+        box-shadow: 0 0.5em 0.5em -0.4em rgb(255, 248, 232);
+        transform: translateY(-0.25em);
+        cursor: pointer;
+    }

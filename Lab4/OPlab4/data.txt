@@ -1,0 +1,5 @@
+﻿Namai
+Veiveriu g. 4
+865412578
+butas,Taurage,Taurai,Tauru g,6,2000,50,2,2
+namas,Kaunas,Aleksotas,Aleksoto g,5,1990,200,5,malkos
