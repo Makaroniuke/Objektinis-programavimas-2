@@ -1,0 +1,5 @@
+Ekonomikos fakultetas
+Ekonomika,Sigutė,Sigita,EK-5/2
+Matematika,Vik,Viktorija,EK-2/3
+Duomenų bazės,Simonat,Simona,IF-0/2
+Duomenų bazės,Petr,Petras,IF-0/3

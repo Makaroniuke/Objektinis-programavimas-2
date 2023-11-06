@@ -1,0 +1,6 @@
+Informatikos fakultetas
+Duomenų bazės,Simonatytė,Simona,IF-0/2
+Duomenų bazės,Petraitis,Petras,IF-0/3
+Duomenų bazės,Petraitis3,Petras3,IF-0/3
+Duomenų bazės,Petraitis2,Petras2,IF-0/3
+Operacinės sistemos,Jonaitis,Jonas,IF-0/2

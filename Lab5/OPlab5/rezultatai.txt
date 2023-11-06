@@ -1,0 +1,58 @@
+﻿Studentų sąrašas
+--------------------------------------------------------------------------------------------------------------
+| Fakultetas                     | Modulis                   | Pavardė       | Vardas     | Grupė           | 
+--------------------------------------------------------------------------------------------------------------
+| Informatikos fakultetas        | Duomenų bazės             | Simonatytė    | Simona     | IF-0/2          | 
+| Informatikos fakultetas        | Duomenų bazės             | Petraitis     | Petras     | IF-0/3          | 
+| Informatikos fakultetas        | Duomenų bazės             | Petraitis3    | Petras3    | IF-0/3          | 
+| Informatikos fakultetas        | Duomenų bazės             | Petraitis2    | Petras2    | IF-0/3          | 
+| Informatikos fakultetas        | Operacinės sistemos       | Jonaitis      | Jonas      | IF-0/2          | 
+| Ekonomikos fakultetas          | Ekonomika                 | Sigutė        | Sigita     | EK-5/2          | 
+| Ekonomikos fakultetas          | Matematika                | Vik           | Viktorija  | EK-2/3          | 
+| Ekonomikos fakultetas          | Duomenų bazės             | Simonat       | Simona     | IF-0/2          | 
+| Ekonomikos fakultetas          | Duomenų bazės             | Petr          | Petras     | IF-0/3          | 
+--------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+Dėstytojų sąrašas
+------------------------------------------------------------------------------------
+| Modulis                   | Pavardė       | Vardas        | Kreditai/Krūvis      |
+------------------------------------------------------------------------------------
+| Duomenų bazės             | Butkienė      | Rita          | 6                    |
+| Operacinės sistemos       | Budnikė       | Ingrida       | 6                    |
+| Ekonomika                 | Petraitienė   | Sigita        | 12                   |
+| Matematika                | Leonaitė      | Gintarė       | 6                    |
+------------------------------------------------------------------------------------
+ 
+Dėstytojų krūviai
+------------------------------------------------------------------------------------
+| Modulis                   | Pavardė       | Vardas        | Kreditai/Krūvis      |
+------------------------------------------------------------------------------------
+| Duomenų bazės             | Butkienė      | Rita          | 36                   |
+| Operacinės sistemos       | Budnikė       | Ingrida       | 6                    |
+| Ekonomika                 | Petraitienė   | Sigita        | 12                   |
+| Matematika                | Leonaitė      | Gintarė       | 6                    |
+------------------------------------------------------------------------------------
+ 
+Dėstytoja/-as Budnikė ir studentų sąrašas:
+--------------------------------------------------
+| Vardas       | Pavardė       |
+--------------------------------------------------
+|                                |                           | Jonas         | Jonaitis   | IF-0/2          | 
+--------------------------------------------------
+ 
+Dėstytoja/-as Butkienė ir studentų sąrašas:
+--------------------------------------------------
+| Vardas       | Pavardė       |
+--------------------------------------------------
+|                                |                           | Simona        | Simonat    | IF-0/2          | 
+|                                |                           | Simona        | Simonatytė | IF-0/2          | 
+|                                |                           | Petras        | Petr       | IF-0/3          | 
+|                                |                           | Petras        | Petraitis  | IF-0/3          | 
+|                                |                           | Petras2       | Petraitis2 | IF-0/3          | 
+|                                |                           | Petras3       | Petraitis3 | IF-0/3          | 
+--------------------------------------------------
+ 
